@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #0000ff;
+  font-family: sans-serif;
+}
+
+li {
+  font-family: 'Inconsolata';
+}
+
+li + li {
+  background: cadetblue;
+}
+
+ol li {
+  background: black;
+  color: white;
+}
+
+code {
+  color: red;
+  font-family: monospace;
+}
+
+.second-item {
+  color: green;
+}
